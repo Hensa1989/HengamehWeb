@@ -1,0 +1,90 @@
+
+/* part1 */
+.part1{
+    background-color : rgb(51,51,51);
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 60px;
+    height :175px;
+}
+.myh1{
+    color: rgb(217,217,217);
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.p1{
+    color: rgb(217,217,217);
+    font-family: Arial, Helvetica, sans-serif;
+	padding-right: 300px;
+	padding-left: 300px;
+	font-size: 14px;
+
+}
+
+/* part3 */
+
+.column {
+	height: 200px;
+	padding: 20px;
+	margin-top: 23px;
+	margin-left: 5px;
+	text-align: justify;	
+	background-color: white;
+    color: rgb(130,130,130);
+	width: 180px;
+	font-size: 14px;
+	
+}
+.container {
+	
+	display: grid;
+	grid-template-columns: 210px 210px 210px;
+	gap :31px;
+	align-items: center;
+	justify-content: center;
+}
+.part3{
+	background-color : rgb(51,51,51); 
+	height :290px;
+}
+.part3h3{
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: center;	
+	color: rgb(50,50,50);
+}
+
+/* part6 */
+
+.part6column1 {
+  float: left;
+  width: 50%;
+  height: 45px; 
+  box-sizing: border-box;
+  background-color: black;
+}
+.part6column2 {
+  float: left;
+  width: 50%;
+  height: 45px; 
+  box-sizing: border-box;
+  background-color: black;
+}
+
+.part6p{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  text-align: center;
+  color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+  font-weight: bold;
+  
+}
+.blue{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  color:rgb(57,112,151);
+  font-weight: bold;
+
+}
